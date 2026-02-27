@@ -1,0 +1,509 @@
+﻿Employee ID,Date Hired,Full Name,Gender,Ethnicity,Department,Job Title,FTE Salary,Actual Salary,Weekly Hours,Full_Part-Time,Bonus
+EMP0001,06/01/2015,Samuel Price,Female,Other,Human Resources,HR Coordinator,29623,29623,37,Full Time,2540
+EMP0002,08/01/2015,Chloe Patel,Female,Mixed,Marketing,SEO Specialist,36305,36305,37,Full Time,3998
+EMP0003,11/01/2015,Emily Carter,Male,Asian,Customer Service,Customer Service Advisor,27314,27314,37,Full Time,3498
+EMP0004,18/01/2015,Tom Higgins,Male,Black,Customer Service,Customer Support Specialist,30730,19933,24,Part Time,2246
+EMP0005,23/01/2015,Kyle Dawson,Male,Asian,Human Resources,Talent Acquisition Specialist,36893,36893,37,Full Time,2895
+EMP0007,13/02/2015,Freya Saunders,Male,Mixed,Human Resources,HR Officer,32456,32456,37,Full Time,1800
+EMP0008,24/02/2015,Ruby Collins,Female,Other,Human Resources,HR Advisor,35894,35894,37,Full Time,3000
+EMP0009,07/03/2015,Cameron Morris,Male,Mixed,Logistics,Logistics Coordinator,29914,29914,37,Full Time,4186
+EMP0010,16/03/2015,Lara Briggs,Male,Mixed,Finance,Accounts Payable Clerk,29721,29721,37,Full Time,2693
+EMP0011,17/03/2015,Grace Hughes,Male,Black,Operations,Operations Coordinator,28659,28659,37,Full Time,2825
+EMP0012,22/03/2015,Reece Baker,Female,Mixed,Human Resources,HR Manager,53239,53239,37,Full Time,3234
+EMP0013,25/03/2015,Sophie Avery,Female,White,Human Resources,HR Administrator,27898,27898,37,Full Time,4344
+EMP0014,29/03/2015,Blake Turner,Male,Mixed,Marketing,Marketing Coordinator,31321,31321,37,Full Time,2853
+EMP0015,13/04/2015,Daniel Green,Female,White,Operations,Operations Coordinator,29025,29025,37,Full Time,2989
+EMP0016,25/04/2015,Gavin Knight,Male,Black,Finance,Management Accountant,41214,41214,37,Full Time,2996
+EMP0017,07/05/2015,Wendy Brooks,Female,Asian,Finance,Management Accountant,47744,45164,35,Part Time,4844
+EMP0018,08/05/2015,Uma Reynolds,Male,Asian,Logistics,Logistics Coordinator,32938,32938,37,Full Time,4831
+EMP0019,27/05/2015,Uma Reynolds,Female,Black,Operations,Operations Analyst,36228,36228,37,Full Time,4003
+EMP0021,11/06/2015,Victor Hayes,Male,Black,Operations,Operations Coordinator,32163,29556,34,Part Time,3570
+EMP0022,19/06/2015,Felix Turner,Female,Black,Sales,Sales Executive,30125,30125,37,Full Time,3816
+EMP0023,21/06/2015,Jacob Walker,Female,White,Customer Service,Customer Service Advisor,22394,22394,37,Full Time,4344
+EMP0024,04/07/2015,Brian Smith,Female,Black,IT,Network Engineer,43205,43205,37,Full Time,2645
+EMP0025,05/07/2015,Wendy Brooks,Male,White,IT,IT Manager,64384,52204,30,Part Time,4123
+EMP0026,14/07/2015,Victor Hayes,Male,Mixed,Logistics,Logistics Coordinator,29090,29090,37,Full Time,2422
+EMP0027,15/07/2015,Ethan Blake,Female,Asian,Customer Service,Customer Service Advisor,30266,30266,37,Full Time,2854
+EMP0028,21/07/2015,Chloe Patel,Female,Asian,Marketing,Marketing Coordinator,27326,27326,37,Full Time,3935
+EMP0029,22/07/2015,Blake Turner,Male,Other,Human Resources,HR Coordinator,32124,32124,37,Full Time,2300
+EMP0031,31/07/2015,Chloe Patel,Female,White,Human Resources,Talent Acquisition Specialist,36493,36493,37,Full Time,2697
+EMP0032,06/08/2015,Kyle Dawson,Female,White,Sales,Business Development Representative,30937,30937,37,Full Time,3121
+EMP0033,10/08/2015,Sophie Avery,Female,Asian,Finance,Accountant,35805,35805,37,Full Time,1800
+EMP0034,15/08/2015,Victor Hayes,Female,White,Finance,Financial Analyst,44179,44179,37,Full Time,2060
+EMP0035,22/08/2015,Zachary Cole,Male,Asian,Human Resources,HR Administrator,29741,29741,37,Full Time,2810
+EMP0036,22/08/2015,Xavier Young,Female,White,Marketing,Digital Marketing Specialist,32716,32716,37,Full Time,3949
+EMP0037,23/08/2015,Isabella Moore,Female,Other,Logistics,Warehouse Operative,25178,25178,37,Full Time,3178
+EMP0038,28/08/2015,Oscar Jennings,Female,Other,Logistics,Distribution Coordinator,29360,29360,37,Full Time,3302
+EMP0039,29/08/2015,Karen Hughes,Male,Black,Finance,Finance Assistant,30227,30227,37,Full Time,3782
+EMP0040,20/09/2015,Noah Grant,Male,Mixed,Customer Service,Customer Support Specialist,24995,24995,37,Full Time,
+EMP0041,29/09/2015,Poppy McLean,Male,Mixed,Human Resources,HR Administrator,24998,21620,32,Part Time,2684
+EMP0042,01/10/2015,Jacob Walker,Female,Mixed,Operations,Operations Coordinator,30126,30126,37,Full Time,3498
+EMP0043,04/11/2015,Lara Briggs,Female,White,Operations,Operations Coordinator,30249,30249,37,Full Time,2736
+EMP0044,13/11/2015,Tom Higgins,Female,Asian,Sales,Account Manager,39680,39680,37,Full Time,2091
+EMP0045,17/11/2015,Noah Grant,Female,White,Finance,Accounts Payable Clerk,27266,27266,37,Full Time,3026
+EMP0046,26/11/2015,Victor Hayes,Male,White,Operations,Supply Chain Analyst,32630,32630,37,Full Time,3702
+EMP0047,28/11/2015,Olivia Adams,Female,Black,Logistics,Logistics Coordinator,26718,26718,37,Full Time,3537
+EMP0048,28/11/2015,Paul Stevens,Female,Black,Marketing,Marketing Manager,46950,46950,37,Full Time,3292
+EMP0049,08/12/2015,Grace Hughes,Male,White,Operations,Operations Manager,50329,50329,37,Full Time,4975
+EMP0050,04/01/2016,Daniel Green,Female,Asian,Finance,Accounts Payable Clerk,27134,27134,37,Full Time,3589
+EMP0051,04/01/2016,Felix Turner,Male,Black,Finance,Accountant,39997,39997,37,Full Time,3985
+EMP0052,07/02/2016,Wendy Brooks,Male,Other,Operations,Operations Coordinator,28991,28991,37,Full Time,4867
+EMP0053,12/02/2016,Karen Hughes,Male,White,Marketing,Marketing Coordinator,27538,27538,37,Full Time,2394
+EMP0054,17/02/2016,Zachary Cole,Male,Asian,Logistics,Logistics Coordinator,29694,25682,32,Part Time,2573
+EMP0055,20/02/2016,Olivia Adams,Male,White,Human Resources,Talent Acquisition Specialist,38848,38848,37,Full Time,4521
+EMP0056,25/02/2016,Will Harper,Male,White,Sales,Sales Manager,56529,56529,37,Full Time,2741
+EMP0057,28/02/2016,Olivia Adams,Female,Asian,Logistics,Supply Chain Coordinator,31696,31696,37,Full Time,3321
+EMP0058,01/03/2016,Zoe Matthews,Male,White,Operations,Operations Assistant,27327,27327,37,Full Time,4048
+EMP0059,06/03/2016,Daisy Hopkins,Female,White,Sales,Sales Executive,26492,25776,36,Part Time,3924
+EMP0060,15/03/2016,Daniel Green,Female,Black,Logistics,Transport Planner,33863,33863,37,Full Time,
+EMP0061,16/03/2016,Reece Baker,Female,Black,Marketing,Marketing Executive,27642,27642,37,Full Time,4528
+EMP0062,22/03/2016,Jacob Walker,Female,White,Operations,Operations Manager,50578,50578,37,Full Time,4347
+EMP0063,25/03/2016,Alice Johnson,Male,Other,IT,IT Support Technician,24639,24639,37,Full Time,4049
+EMP0064,06/04/2016,Henry Clarke,Female,Other,Marketing,Digital Marketing Specialist,37897,37897,37,Full Time,2759
+EMP0066,09/04/2016,Quinn Bailey,Female,Black,Marketing,SEO Specialist,34339,34339,37,Full Time,3520
+EMP0067,24/04/2016,Cameron Morris,Female,Black,Customer Service,Customer Service Executive,28703,28703,37,Full Time,2372
+EMP0068,02/05/2016,Poppy McLean,Female,Mixed,Sales,Business Development Representative,29568,29568,37,Full Time,4292
+EMP0069,02/05/2016,Freya Saunders,Male,White,Marketing,Marketing Executive,31622,31622,37,Full Time,3865
+EMP0070,12/05/2016,Samuel Price,Male,Asian,Customer Service,Customer Service Advisor,25715,25715,37,Full Time,3332
+EMP0071,04/07/2016,Felix Turner,Female,Mixed,Logistics,Logistics Coordinator,26885,26885,37,Full Time,3137
+EMP0072,16/08/2016,Samuel Price,Female,Other,Logistics,Transport Planner,30799,27470,33,Part Time,2461
+EMP0073,21/08/2016,Cameron Morris,Male,Black,Operations,Operations Manager,45086,45086,37,Full Time,3440
+EMP0074,30/08/2016,Sophie Avery,Male,Other,Human Resources,HR Advisor,36645,36645,37,Full Time,3628
+EMP0075,25/09/2016,Holly Barrett,Female,White,IT,IT Support Technician,28972,15661,20,Part Time,2718
+EMP0076,07/10/2016,Oscar Jennings,Female,White,Customer Service,Customer Service Advisor,28285,28285,37,Full Time,4114
+EMP0078,12/10/2016,Freya Saunders,Male,Asian,Human Resources,HR Manager,50356,50356,37,Full Time,1814
+EMP0079,15/10/2016,Miles Turner,Female,Mixed,Customer Service,Customer Service Advisor,24821,24821,37,Full Time,4028
+EMP0080,09/11/2016,Poppy McLean,Female,Asian,Human Resources,HR Officer,33762,33762,37,Full Time,
+EMP0081,21/11/2016,Will Harper,Female,Mixed,Marketing,Marketing Manager,49593,49593,37,Full Time,3018
+EMP0082,21/11/2016,Mia Russell,Female,Mixed,Customer Service,Customer Service Executive,27745,27745,37,Full Time,3212
+EMP0083,24/11/2016,Gavin Knight,Female,Other,Customer Service,Customer Service Executive,26093,21862,31,Part Time,2714
+EMP0084,25/11/2016,Violet Chapman,Male,White,Logistics,Warehouse Operative,24853,24853,37,Full Time,2176
+EMP0085,11/12/2016,Henry Clarke,Male,White,Marketing,Digital Marketing Specialist,35530,35530,37,Full Time,4179
+EMP0087,24/12/2016,Oscar Jennings,Female,Other,Operations,Operations Coordinator,32182,32182,37,Full Time,4463
+EMP0088,06/01/2017,Tara Mitchell,Male,Other,Sales,Account Manager,42695,42695,37,Full Time,3865
+EMP0089,17/01/2017,Ian Spencer,Female,Black,Marketing,Digital Marketing Specialist,34569,20555,22,Part Time,3080
+EMP0090,19/01/2017,Ruby Collins,Female,Mixed,Finance,Accountant,40345,23989,22,Part Time,2540
+EMP0091,24/01/2017,Samuel Price,Female,Black,IT,Network Engineer,45035,45035,37,Full Time,2787
+EMP0092,24/01/2017,Liam Foster,Male,Mixed,Customer Service,Customer Service Advisor,23963,23963,37,Full Time,2451
+EMP0093,31/01/2017,Olivia Adams,Female,White,Human Resources,HR Administrator,27521,16364,22,Part Time,4761
+EMP0094,31/01/2017,Emily Carter,Female,Asian,IT,Service Desk Analyst,27613,27613,37,Full Time,3415
+EMP0095,01/02/2017,Karen Hughes,Male,Black,Human Resources,HR Advisor,29986,29986,37,Full Time,4105
+EMP0096,09/02/2017,Lara Briggs,Male,Mixed,Finance,Accounts Payable Clerk,26924,18192,25,Part Time,2413
+EMP0097,14/02/2017,Freya Saunders,Male,Asian,Human Resources,HR Advisor,34135,34135,37,Full Time,3427
+EMP0098,17/02/2017,Sophie Avery,Male,Mixed,Customer Service,Customer Service Advisor,24404,24404,37,Full Time,4124
+EMP0099,17/02/2017,Ian Spencer,Male,Asian,Customer Service,Customer Support Specialist,27660,27660,37,Full Time,3066
+EMP0100,23/02/2017,Liam Foster,Male,Other,IT,Software Developer,49573,49573,37,Full Time,
+EMP0101,01/03/2017,Grace Hughes,Female,White,Logistics,Supply Chain Coordinator,35210,35210,37,Full Time,4022
+EMP0102,02/03/2017,Will Harper,Female,White,Human Resources,HR Coordinator,29585,29585,37,Full Time,2541
+EMP0103,03/03/2017,Uma Reynolds,Male,Black,Operations,Operations Manager,43750,43750,37,Full Time,2346
+EMP0104,12/03/2017,Reece Baker,Male,Other,Sales,Sales Associate,27427,27427,37,Full Time,3566
+EMP0105,13/03/2017,Will Harper,Male,Mixed,Operations,Operations Manager,49489,49489,37,Full Time,3035
+EMP0106,22/03/2017,Grace Hughes,Female,Asian,IT,IT Systems Engineer,56981,56981,37,Full Time,3749
+EMP0107,29/03/2017,Reece Baker,Female,Mixed,Marketing,Marketing Coordinator,30630,30630,37,Full Time,1916
+EMP0108,01/04/2017,Zachary Cole,Female,White,Customer Service,Customer Success Manager,44916,44916,37,Full Time,3799
+EMP0109,14/04/2017,Mia Russell,Male,Asian,Customer Service,Customer Support Specialist,27444,27444,37,Full Time,5119
+EMP0110,06/05/2017,Gavin Knight,Male,White,Finance,Finance Assistant,26150,26150,37,Full Time,3283
+EMP0111,07/05/2017,Cameron Morris,Male,Other,Sales,Sales Associate,27197,27197,37,Full Time,3324
+EMP0112,29/05/2017,Daisy Hopkins,Male,Asian,Operations,Operations Analyst,38206,38206,37,Full Time,3426
+EMP0113,01/06/2017,Will Harper,Non-Binary,White,Operations,Operations Manager,45687,37044,30,Part Time,1997
+EMP0114,04/06/2017,Isabella Moore,Female,Black,Logistics,Supply Chain Coordinator,29910,29910,37,Full Time,3598
+EMP0115,21/06/2017,Jenna Wallace,Female,Other,Operations,Operations Coordinator,28757,28757,37,Full Time,2176
+EMP0116,24/06/2017,Uma Reynolds,Male,Mixed,Human Resources,HR Advisor,32811,32811,37,Full Time,3001
+EMP0117,05/07/2017,Emily Carter,Male,Other,Customer Service,Customer Service Advisor,28346,28346,37,Full Time,4170
+EMP0118,06/07/2017,Yasmin Howard,Female,Black,Operations,Operations Manager,50677,50677,37,Full Time,2785
+EMP0119,07/07/2017,Liam Foster,Female,Black,Operations,Operations Manager,51239,51239,37,Full Time,3651
+EMP0120,14/07/2017,Tara Mitchell,Female,Asian,Marketing,Digital Marketing Specialist,32444,32444,37,Full Time,
+EMP0121,22/07/2017,Alice Johnson,Female,Black,IT,IT Support Technician,30457,30457,37,Full Time,4009
+EMP0122,23/07/2017,Chloe Patel,Female,Other,IT,Service Desk Analyst,27778,27778,37,Full Time,3495
+EMP0123,10/08/2017,Una Davidson,Male,Other,Operations,Operations Assistant,27989,15886,21,Part Time,2340
+EMP0124,16/08/2017,Brian Smith,Male,White,Marketing,Marketing Executive,30005,30005,37,Full Time,3067
+EMP0125,18/08/2017,Sophie Avery,Male,Mixed,IT,IT Support Technician,28948,20342,26,Part Time,4672
+EMP0126,21/08/2017,Poppy McLean,Female,Other,Logistics,Transport Planner,35192,35192,37,Full Time,1882
+EMP0127,02/09/2017,Abigail Peters,Female,Black,Marketing,Content Marketing Executive,28106,28106,37,Full Time,3107
+EMP0128,17/09/2017,Tara Mitchell,Male,Asian,Operations,Operations Analyst,35908,35908,37,Full Time,2914
+EMP0129,18/09/2017,Holly Barrett,Male,Black,Sales,Sales Associate,28384,28384,37,Full Time,3384
+EMP0130,26/09/2017,Ethan Blake,Male,Asian,Operations,Operations Analyst,37388,37388,37,Full Time,3824
+EMP0131,27/09/2017,Olivia Adams,Female,White,Logistics,Logistics Coordinator,31765,31765,37,Full Time,4426
+EMP0132,02/10/2017,Jacob Walker,Female,Other,IT,Systems Administrator,38057,38057,37,Full Time,3111
+EMP0133,06/10/2017,Oscar Jennings,Female,Asian,IT,Software Developer,53268,53268,37,Full Time,3869
+EMP0134,14/10/2017,Mia Russell,Male,Mixed,Operations,Operations Assistant,26882,26882,37,Full Time,3650
+EMP0135,31/10/2017,Holly Barrett,Male,Black,Finance,Finance Assistant,26354,26354,37,Full Time,3632
+EMP0136,03/11/2017,Uma Reynolds,Female,White,Human Resources,HR Administrator,27318,27318,37,Full Time,2905
+EMP0138,06/11/2017,Abigail Peters,Female,Mixed,Customer Service,Customer Success Manager,42138,42138,37,Full Time,2530
+EMP0139,11/11/2017,Abigail Peters,Male,Other,IT,Service Desk Analyst,28735,28735,37,Full Time,2770
+EMP0140,13/11/2017,Noah Grant,Male,Asian,Marketing,Marketing Coordinator,29118,29118,37,Full Time,
+EMP0141,19/11/2017,Felix Turner,Female,Asian,Logistics,Transport Planner,32731,32731,37,Full Time,3525
+EMP0142,26/11/2017,Violet Chapman,Female,Asian,Customer Service,Customer Service Executive,29595,29595,37,Full Time,3833
+EMP0143,27/11/2017,Jenna Wallace,Male,Other,Marketing,Marketing Coordinator,30008,20276,25,Part Time,3526
+EMP0144,06/12/2017,Ian Spencer,Male,Other,Finance,Accounts Receivable Clerk,28323,28323,37,Full Time,2916
+EMP0145,13/12/2017,Miles Turner,Male,Asian,Customer Service,Customer Support Specialist,27855,27855,37,Full Time,4564
+EMP0146,22/12/2017,Holly Barrett,Female,White,Marketing,Digital Marketing Specialist,35500,35500,37,Full Time,4363
+EMP0147,27/12/2017,Chloe Patel,Male,White,Customer Service,Customer Success Manager,47405,47405,37,Full Time,3052
+EMP0148,16/01/2018,Freya Saunders,Male,Black,IT,Software Developer,49138,49138,37,Full Time,2724
+EMP0149,29/01/2018,Will Harper,Male,White,Finance,Accounts Payable Clerk,24085,24085,37,Full Time,3391
+EMP0150,30/01/2018,Brian Smith,Female,Other,Operations,Operations Coordinator,31993,31993,37,Full Time,4187
+EMP0151,05/02/2018,Karen Hughes,Male,White,Human Resources,Talent Acquisition Specialist,32272,32272,37,Full Time,3533
+EMP0152,10/02/2018,Olivia Adams,Female,White,Logistics,Logistics Coordinator,30791,30791,37,Full Time,3690
+EMP0153,15/02/2018,Chloe Patel,Male,Other,IT,Software Developer,49624,49624,37,Full Time,3152
+EMP0154,26/02/2018,Oscar Jennings,Male,White,Customer Service,Customer Service Executive,26703,26703,37,Full Time,3619
+EMP0156,02/03/2018,Brian Smith,Male,Asian,Operations,Operations Coordinator,28967,28967,37,Full Time,3132
+EMP0157,09/03/2018,Liam Foster,Female,Other,Logistics,Logistics Coordinator,29428,29428,37,Full Time,3400
+EMP0158,27/03/2018,Paul Stevens,Female,Other,Logistics,Transport Planner,35036,35036,37,Full Time,3478
+EMP0159,28/03/2018,Zoe Matthews,Male,White,Human Resources,HR Coordinator,31540,31540,37,Full Time,3499
+EMP0160,20/04/2018,Emily Carter,Male,White,Sales,Sales Manager,54995,54995,37,Full Time,
+EMP0161,08/05/2018,Alice Johnson,Male,Other,Human Resources,HR Coordinator,27176,20566,28,Part Time,2312
+EMP0162,25/05/2018,Oscar Jennings,Female,White,Customer Service,Customer Service Advisor,28000,28000,37,Full Time,1986
+EMP0163,27/05/2018,Quinn Bailey,Female,Asian,IT,IT Manager,62681,62681,37,Full Time,2586
+EMP0164,28/05/2018,Jacob Walker,Female,Black,Logistics,Logistics Coordinator,31115,31115,37,Full Time,3418
+EMP0165,29/05/2018,Grace Hughes,Female,Black,Sales,Account Manager,42376,42376,37,Full Time,3688
+EMP0166,03/06/2018,Tom Higgins,Male,Black,Marketing,Content Marketing Executive,28849,28849,37,Full Time,2928
+EMP0167,06/06/2018,Emily Carter,Female,Mixed,Customer Service,Customer Service Advisor,24207,20282,31,Part Time,4264
+EMP0168,10/06/2018,Ruby Collins,Female,Mixed,Customer Service,Customer Support Specialist,29011,29011,37,Full Time,3200
+EMP0169,19/06/2018,Brian Smith,Female,Other,Marketing,Marketing Executive,31901,31901,37,Full Time,3314
+EMP0170,23/06/2018,Xavier Young,Female,Other,Customer Service,Customer Service Executive,27471,24502,33,Part Time,3164
+EMP0171,27/06/2018,Jenna Wallace,Female,Other,Operations,Operations Manager,46869,46869,37,Full Time,3394
+EMP0173,01/07/2018,Isabella Moore,Female,Mixed,Customer Service,Customer Service Advisor,25343,16439,24,Part Time,3766
+EMP0174,21/07/2018,Isabella Moore,Male,Mixed,Marketing,Marketing Manager,49087,49087,37,Full Time,2671
+EMP0175,11/08/2018,Wendy Brooks,Male,Other,Logistics,Transport Planner,33240,33240,37,Full Time,4367
+EMP0176,15/08/2018,Nina Howard,Female,Black,Customer Service,Customer Service Advisor,25857,25857,37,Full Time,2534
+EMP0177,15/08/2018,Ian Spencer,Female,Asian,Finance,Finance Manager,53729,53729,37,Full Time,3356
+EMP0178,16/08/2018,Zachary Cole,Male,Mixed,Human Resources,HR Advisor,32038,32038,37,Full Time,3108
+EMP0179,30/08/2018,Abigail Peters,Male,Black,Customer Service,Customer Service Advisor,26020,24614,35,Part Time,2566
+EMP0180,07/09/2018,Nina Howard,Female,White,Customer Service,Customer Service Advisor,25974,25974,37,Full Time,
+EMP0181,12/09/2018,Victor Hayes,Female,Other,Finance,Management Accountant,47477,47477,37,Full Time,3247
+EMP0182,22/09/2018,Yasmin Howard,Female,White,Customer Service,Customer Service Advisor,28980,28980,37,Full Time,2781
+EMP0183,05/10/2018,Henry Clarke,Female,Asian,IT,Service Desk Analyst,33496,33496,37,Full Time,3351
+EMP0184,14/10/2018,Tom Higgins,Female,White,Finance,Accounts Payable Clerk,26743,26743,37,Full Time,3582
+EMP0185,18/10/2018,Zachary Cole,Male,White,Sales,Account Executive,35971,35971,37,Full Time,4330
+EMP0186,27/10/2018,Emily Carter,Male,Asian,Finance,Accounts Payable Clerk,26898,26898,37,Full Time,3515
+EMP0187,06/11/2018,Felix Turner,Male,Other,Sales,Business Development Representative,27380,27380,37,Full Time,2872
+EMP0188,10/11/2018,Quinn Bailey,Female,Black,Sales,Sales Executive,30749,24932,30,Part Time,3026
+EMP0189,13/11/2018,Wendy Brooks,Male,Other,IT,IT Support Technician,29666,29666,37,Full Time,3398
+EMP0190,22/11/2018,Samuel Price,Female,Mixed,Marketing,Marketing Executive,27752,19502,26,Part Time,3365
+EMP0191,27/12/2018,Tom Higgins,Female,Black,Sales,Business Development Representative,29884,29884,37,Full Time,4322
+EMP0192,28/12/2018,Mia Russell,Male,White,Operations,Supply Chain Analyst,39264,39264,37,Full Time,4277
+EMP0194,30/12/2018,Tara Mitchell,Male,White,Marketing,Marketing Coordinator,25821,25821,37,Full Time,2916
+EMP0195,30/12/2018,Zachary Cole,Female,Other,Marketing,Marketing Executive,29169,29169,37,Full Time,1800
+EMP0196,17/01/2019,Zachary Cole,Female,Black,Marketing,Marketing Executive,29431,29431,37,Full Time,2916
+EMP0197,17/01/2019,Will Harper,Male,White,Customer Service,Customer Service Executive,29623,17614,22,Part Time,2615
+EMP0198,24/01/2019,Xavier Young,Male,White,Logistics,Distribution Coordinator,28363,28363,37,Full Time,3052
+EMP0199,17/02/2019,Holly Barrett,Male,White,Marketing,Marketing Executive,29173,29173,37,Full Time,3574
+EMP0201,22/02/2019,Emily Carter,Male,Asian,IT,IT Support Technician,27970,27970,37,Full Time,3424
+EMP0202,28/02/2019,Chloe Patel,Male,Other,Marketing,Digital Marketing Specialist,33746,33746,37,Full Time,3279
+EMP0203,05/03/2019,Cameron Morris,Non-Binary,Black,Sales,Account Manager,43243,43243,37,Full Time,3440
+EMP0204,07/03/2019,Tara Mitchell,Female,Asian,Human Resources,HR Administrator,29420,29420,37,Full Time,3212
+EMP0205,21/03/2019,Alice Johnson,Male,White,Sales,Business Development Representative,29366,29366,37,Full Time,3438
+EMP0206,23/03/2019,Ruby Collins,Male,Asian,Human Resources,HR Manager,51017,51017,37,Full Time,1800
+EMP0207,30/03/2019,Wendy Brooks,Male,White,Finance,Accountant,43076,43076,37,Full Time,3112
+EMP0208,31/03/2019,Daniel Green,Female,Other,Marketing,SEO Specialist,36655,36655,37,Full Time,3222
+EMP0209,11/04/2019,Quinn Bailey,Female,Black,Customer Service,Customer Success Manager,44176,44176,37,Full Time,3061
+EMP0210,13/04/2019,Cameron Morris,Female,Asian,Sales,Sales Associate,28368,28368,37,Full Time,3147
+EMP0211,14/04/2019,Karen Hughes,Female,Mixed,Operations,Operations Coordinator,31419,31419,37,Full Time,3792
+EMP0212,27/04/2019,Ruby Collins,Female,Mixed,Finance,Finance Manager,49680,49680,37,Full Time,2881
+EMP0214,16/05/2019,Zoe Matthews,Female,Other,Sales,Sales Associate,29493,24711,31,Part Time,3782
+EMP0215,22/05/2019,Kyle Dawson,Male,White,Operations,Operations Manager,48768,48768,37,Full Time,3296
+EMP0216,24/05/2019,Samuel Price,Female,Mixed,Human Resources,HR Manager,49214,49214,37,Full Time,3155
+EMP0217,05/06/2019,Poppy McLean,Female,Black,IT,Systems Administrator,40090,40090,37,Full Time,3239
+EMP0218,06/06/2019,Abigail Peters,Male,Black,IT,Service Desk Analyst,30931,30931,37,Full Time,2659
+EMP0219,08/06/2019,Xavier Young,Female,Asian,Sales,Sales Executive,30560,30560,37,Full Time,3233
+EMP0220,10/06/2019,Samuel Price,Male,White,IT,IT Manager,67027,67027,37,Full Time,
+EMP0221,16/06/2019,Gavin Knight,Male,Other,Finance,Financial Analyst,42842,42842,37,Full Time,3495
+EMP0222,28/06/2019,Jacob Walker,Female,Asian,Operations,Operations Assistant,33200,33200,37,Full Time,3706
+EMP0223,03/07/2019,Poppy McLean,Male,Other,IT,Software Developer,45376,45376,37,Full Time,3706
+EMP0224,09/07/2019,Nina Howard,Female,Asian,Marketing,Digital Marketing Specialist,32693,32693,37,Full Time,3108
+EMP0225,03/08/2019,Blake Turner,Male,Other,Marketing,Marketing Coordinator,28657,24785,32,Part Time,2309
+EMP0226,04/08/2019,Liam Foster,Female,Mixed,Logistics,Logistics Coordinator,31007,31007,37,Full Time,2832
+EMP0228,06/08/2019,Poppy McLean,Male,Asian,Marketing,Content Marketing Executive,32966,32966,37,Full Time,3927
+EMP0229,19/08/2019,Ruby Collins,Male,Asian,IT,IT Systems Engineer,41872,41872,37,Full Time,3559
+EMP0230,19/08/2019,Kyle Dawson,Male,Mixed,Customer Service,Customer Service Manager,45834,45834,37,Full Time,2767
+EMP0231,20/08/2019,Wendy Brooks,Female,Asian,Sales,Sales Associate,28657,27883,36,Part Time,3303
+EMP0232,21/08/2019,Yasmin Howard,Female,Asian,Human Resources,Talent Acquisition Specialist,36214,36214,37,Full Time,2421
+EMP0233,24/08/2019,Quinn Bailey,Female,Other,Sales,Account Manager,44284,44284,37,Full Time,2914
+EMP0235,31/08/2019,Jenna Wallace,Female,Other,Customer Service,Customer Service Executive,27992,27992,37,Full Time,3047
+EMP0236,08/09/2019,Una Davidson,Female,Mixed,Finance,Finance Assistant,28525,28525,37,Full Time,3970
+EMP0237,17/09/2019,Holly Barrett,Female,Asian,Operations,Operations Manager,51070,51070,37,Full Time,2307
+EMP0238,17/10/2019,Grace Hughes,Male,Other,IT,Software Developer,45611,45611,37,Full Time,2694
+EMP0239,19/10/2019,Lara Briggs,Male,Mixed,IT,IT Systems Engineer,47582,47582,37,Full Time,2338
+EMP0240,23/10/2019,Holly Barrett,Female,Mixed,Marketing,Marketing Coordinator,32463,32463,37,Full Time,
+EMP0241,25/10/2019,Paul Stevens,Female,Asian,Operations,Supply Chain Analyst,38322,32108,31,Part Time,2434
+EMP0243,02/11/2019,Felix Turner,Male,White,Finance,Accountant,42015,42015,37,Full Time,2180
+EMP0244,03/11/2019,Mia Russell,Male,Other,Customer Service,Customer Service Advisor,25462,25462,37,Full Time,3828
+EMP0245,12/11/2019,Tom Higgins,Male,Asian,Marketing,Digital Marketing Specialist,34712,34712,37,Full Time,3127
+EMP0246,20/11/2019,Holly Barrett,Female,Asian,Finance,Finance Manager,51994,50589,36,Part Time,3348
+EMP0247,20/11/2019,Ian Spencer,Male,Asian,Logistics,Warehouse Operative,27523,24548,33,Part Time,3526
+EMP0248,23/11/2019,Isabella Moore,Female,Asian,IT,IT Systems Engineer,43620,43620,37,Full Time,2996
+EMP0249,30/11/2019,Chloe Patel,Female,White,Operations,Operations Analyst,33375,33375,37,Full Time,4023
+EMP0250,01/01/2020,Karen Hughes,Female,Other,Logistics,Transport Planner,35441,35441,37,Full Time,3164
+EMP0251,01/01/2020,Una Davidson,Male,Black,Finance,Management Accountant,44639,44639,37,Full Time,3716
+EMP0252,04/01/2020,Liam Foster,Female,Mixed,Operations,Operations Assistant,28423,28423,37,Full Time,3161
+EMP0253,12/01/2020,Tom Higgins,Female,Mixed,Operations,Operations Manager,43231,43231,37,Full Time,3504
+EMP0254,13/01/2020,Oscar Jennings,Male,Black,Finance,Finance Manager,53733,53733,37,Full Time,3496
+EMP0255,22/01/2020,Nina Howard,Female,Other,Operations,Operations Manager,56704,41379,27,Part Time,3475
+EMP0256,25/01/2020,Mia Russell,Female,Other,IT,IT Support Technician,31103,31103,37,Full Time,2618
+EMP0257,25/02/2020,Violet Chapman,Female,Other,Sales,Business Development Representative,34625,34625,37,Full Time,3605
+EMP0258,11/03/2020,Lara Briggs,Female,White,Sales,Account Executive,27148,27148,37,Full Time,3077
+EMP0259,25/03/2020,Xavier Young,Female,Mixed,Sales,Sales Associate,31017,31017,37,Full Time,3741
+EMP0260,31/03/2020,Violet Chapman,Male,White,Operations,Operations Coordinator,28864,28864,37,Full Time,
+EMP0261,01/04/2020,Una Davidson,Female,White,IT,IT Manager,55084,55084,37,Full Time,1800
+EMP0262,07/04/2020,Daniel Green,Female,Asian,Customer Service,Customer Service Advisor,24827,24827,37,Full Time,2274
+EMP0263,10/04/2020,Daniel Green,Female,White,Sales,Sales Associate,27173,27173,37,Full Time,3554
+EMP0264,17/04/2020,Jacob Walker,Male,Black,Finance,Finance Manager,56527,48889,32,Part Time,4604
+EMP0265,17/04/2020,Samuel Price,Male,Black,Marketing,Marketing Executive,30448,24688,30,Part Time,3884
+EMP0266,02/05/2020,Isabella Moore,Female,Black,Human Resources,HR Administrator,30550,30550,37,Full Time,2822
+EMP0267,08/06/2020,Freya Saunders,Male,Asian,Human Resources,HR Administrator,30414,21372,26,Part Time,2116
+EMP0268,23/06/2020,Nina Howard,Male,White,Sales,Sales Executive,29888,29888,37,Full Time,3820
+EMP0269,10/07/2020,Isabella Moore,Male,White,Finance,Finance Assistant,27346,27346,37,Full Time,3244
+EMP0270,12/08/2020,Liam Foster,Male,Black,IT,IT Support Technician,28989,28989,37,Full Time,3714
+EMP0271,02/09/2020,Gavin Knight,Male,Mixed,Human Resources,HR Administrator,29702,29702,37,Full Time,3381
+EMP0272,03/09/2020,Uma Reynolds,Male,Black,Finance,Accounts Payable Clerk,27299,27299,37,Full Time,3321
+EMP0273,21/09/2020,Ethan Blake,Female,Other,IT,Software Developer,46493,46493,37,Full Time,5371
+EMP0274,06/10/2020,Lara Briggs,Male,Mixed,Marketing,Marketing Manager,55162,55162,37,Full Time,3296
+EMP0275,15/10/2020,Ian Spencer,Female,Asian,Marketing,Marketing Coordinator,24924,24924,37,Full Time,3188
+EMP0276,18/10/2020,Daisy Hopkins,Male,Asian,Marketing,Marketing Coordinator,30307,29488,36,Part Time,3215
+EMP0277,30/10/2020,Grace Hughes,Male,Asian,IT,Software Developer,44528,44528,37,Full Time,2892
+EMP0278,03/11/2020,Ethan Blake,Male,Mixed,Operations,Operations Analyst,35342,19104,20,Part Time,3993
+EMP0279,16/11/2020,Daisy Hopkins,Male,Other,Sales,Account Executive,32532,32532,37,Full Time,3052
+EMP0280,20/11/2020,Noah Grant,Male,Other,Marketing,Digital Marketing Specialist,34553,34553,37,Full Time,
+EMP0281,05/12/2020,Lara Briggs,Male,Other,Logistics,Warehouse Operative,24198,24198,37,Full Time,3745
+EMP0283,08/12/2020,Wendy Brooks,Male,Asian,Finance,Accountant,43184,43184,37,Full Time,4153
+EMP0284,20/12/2020,Freya Saunders,Male,Black,Sales,Sales Manager,49821,28277,21,Part Time,3594
+EMP0285,29/12/2020,Daisy Hopkins,Male,Asian,Human Resources,HR Officer,33174,33174,37,Full Time,2451
+EMP0286,02/01/2021,Reece Baker,Male,Asian,Sales,Business Development Representative,30992,25967,31,Part Time,2372
+EMP0287,04/01/2021,Felix Turner,Female,White,Customer Service,Customer Service Advisor,27306,27306,37,Full Time,4286
+EMP0288,07/01/2021,Brian Smith,Male,Mixed,Marketing,SEO Specialist,30816,28318,34,Part Time,2874
+EMP0289,14/01/2021,Cameron Morris,Female,White,IT,Service Desk Analyst,31453,31453,37,Full Time,2376
+EMP0290,03/02/2021,Miles Turner,Male,Asian,Logistics,Distribution Coordinator,31844,31844,37,Full Time,2831
+EMP0291,04/02/2021,Gavin Knight,Male,Mixed,Customer Service,Customer Service Executive,26762,26762,37,Full Time,4185
+EMP0292,10/02/2021,Daisy Hopkins,Male,Asian,Logistics,Transport Planner,34101,34101,37,Full Time,2306
+EMP0293,18/02/2021,Poppy McLean,Male,Asian,Marketing,Marketing Executive,26415,26415,37,Full Time,2694
+EMP0294,24/02/2021,Noah Grant,Female,Black,Finance,Finance Assistant,26791,26791,37,Full Time,2833
+EMP0295,30/03/2021,Miles Turner,Male,Black,Customer Service,Customer Service Advisor,25064,25064,37,Full Time,2424
+EMP0296,30/03/2021,Noah Grant,Female,Asian,Finance,Accountant,36121,36121,37,Full Time,2471
+EMP0297,30/03/2021,Brian Smith,Male,Other,Sales,Sales Associate,29092,29092,37,Full Time,2237
+EMP0298,04/04/2021,Jacob Walker,Female,Other,Marketing,Digital Marketing Specialist,34823,34823,37,Full Time,2977
+EMP0299,12/04/2021,Paul Stevens,Male,Other,Customer Service,Customer Service Executive,29346,15863,20,Part Time,3052
+EMP0300,19/04/2021,Zoe Matthews,Male,Asian,Logistics,Warehouse Operative,24845,17459,26,Part Time,
+EMP0301,21/04/2021,Holly Barrett,Male,Black,Logistics,Warehouse Operative,23801,23801,37,Full Time,2822
+EMP0302,28/04/2021,Freya Saunders,Female,Asian,Customer Service,Customer Service Advisor,24953,24953,37,Full Time,2142
+EMP0303,02/05/2021,Paul Stevens,Female,Other,Logistics,Logistics Coordinator,32160,32160,37,Full Time,4177
+EMP0304,14/05/2021,Henry Clarke,Male,White,Marketing,Marketing Coordinator,30583,30583,37,Full Time,2370
+EMP0305,19/05/2021,Miles Turner,Male,Other,Marketing,SEO Specialist,34041,28521,31,Part Time,3495
+EMP0306,30/05/2021,Violet Chapman,Male,Other,Logistics,Warehouse Operative,26897,26897,37,Full Time,2548
+EMP0307,04/06/2021,Cameron Morris,Female,Asian,Operations,Supply Chain Analyst,36565,36565,37,Full Time,3768
+EMP0308,10/06/2021,Reece Baker,Female,Mixed,Logistics,Logistics Coordinator,29100,29100,37,Full Time,3969
+EMP0309,03/07/2021,Una Davidson,Male,White,Logistics,Logistics Coordinator,31425,22932,27,Part Time,2686
+EMP0310,05/07/2021,Yasmin Howard,Male,Mixed,Sales,Sales Associate,26241,21986,31,Part Time,1953
+EMP0311,11/07/2021,Zachary Cole,Female,Black,Operations,Operations Analyst,36329,36329,37,Full Time,3787
+EMP0312,12/07/2021,Daniel Green,Male,White,IT,Software Developer,46634,46634,37,Full Time,4613
+EMP0313,04/08/2021,Gavin Knight,Male,Mixed,Sales,Sales Executive,29077,29077,37,Full Time,3591
+EMP0314,11/08/2021,Alice Johnson,Male,Black,Customer Service,Customer Support Specialist,26258,26258,37,Full Time,3412
+EMP0315,13/08/2021,Abigail Peters,Female,Other,Finance,Financial Analyst,43621,43621,37,Full Time,3874
+EMP0316,21/08/2021,Miles Turner,Female,White,Logistics,Transport Planner,36190,36190,37,Full Time,3836
+EMP0317,25/08/2021,Henry Clarke,Female,Asian,Human Resources,HR Advisor,31791,31791,37,Full Time,2720
+EMP0318,15/09/2021,Tom Higgins,Female,Mixed,IT,IT Support Technician,27172,27172,37,Full Time,2839
+EMP0319,18/09/2021,Ian Spencer,Male,Mixed,Finance,Financial Analyst,44171,44171,37,Full Time,3728
+EMP0320,20/09/2021,Yasmin Howard,Female,Other,Customer Service,Customer Support Specialist,26963,26963,37,Full Time,
+EMP0321,05/10/2021,Blake Turner,Female,Asian,Sales,Sales Executive,27547,27547,37,Full Time,3199
+EMP0322,09/10/2021,Miles Turner,Female,White,Sales,Business Development Representative,33448,33448,37,Full Time,4222
+EMP0323,14/10/2021,Emily Carter,Male,Other,Logistics,Supply Chain Coordinator,30682,29024,35,Part Time,2807
+EMP0324,22/10/2021,Paul Stevens,Male,Other,Marketing,Digital Marketing Specialist,36454,36454,37,Full Time,3825
+EMP0325,25/11/2021,Karen Hughes,Female,Black,Marketing,Marketing Executive,29785,29785,37,Full Time,3540
+EMP0326,04/12/2021,Victor Hayes,Female,Asian,Sales,Account Manager,40230,28270,26,Part Time,3212
+EMP0327,02/01/2022,Wendy Brooks,Male,Mixed,Marketing,Marketing Executive,30787,30787,37,Full Time,4123
+EMP0328,08/01/2022,Henry Clarke,Male,Asian,IT,Service Desk Analyst,28891,28891,37,Full Time,3776
+EMP0329,10/01/2022,Kyle Dawson,Female,White,Marketing,Marketing Coordinator,28189,28189,37,Full Time,2596
+EMP0330,18/01/2022,Una Davidson,Female,Asian,Finance,Finance Assistant,28441,21523,28,Part Time,3748
+EMP0331,18/01/2022,Samuel Price,Male,Mixed,Human Resources,People Business Partner,57725,57725,37,Full Time,4262
+EMP0332,04/02/2022,Lara Briggs,Female,Black,Finance,Accounts Payable Clerk,27075,21953,30,Part Time,3209
+EMP0333,05/02/2022,Lara Briggs,Male,Black,Finance,Financial Analyst,48896,48896,37,Full Time,3126
+EMP0334,10/02/2022,Ethan Blake,Female,White,Operations,Operations Coordinator,30233,30233,37,Full Time,2831
+EMP0335,23/02/2022,Alice Johnson,Male,Mixed,Logistics,Warehouse Operative,23009,21144,34,Part Time,3290
+EMP0336,26/02/2022,Oscar Jennings,Female,Asian,Logistics,Supply Chain Coordinator,30584,30584,37,Full Time,3780
+EMP0337,26/02/2022,Nina Howard,Male,Mixed,Marketing,Content Marketing Executive,29825,24989,31,Part Time,2728
+EMP0338,09/03/2022,Quinn Bailey,Male,Asian,Customer Service,Customer Service Advisor,25226,17045,25,Part Time,2358
+EMP0339,10/03/2022,Victor Hayes,Female,Asian,Customer Service,Customer Service Advisor,27886,27886,37,Full Time,3037
+EMP0340,17/03/2022,Nina Howard,Male,Black,Human Resources,HR Advisor,36473,36473,37,Full Time,
+EMP0341,11/04/2022,Violet Chapman,Female,Other,Marketing,Marketing Executive,29069,29069,37,Full Time,2334
+EMP0342,07/05/2022,Miles Turner,Female,Other,IT,Software Developer,48791,48791,37,Full Time,3666
+EMP0343,25/05/2022,Xavier Young,Female,Black,Marketing,Marketing Executive,29605,29605,37,Full Time,3001
+EMP0344,28/05/2022,Daisy Hopkins,Male,Other,Human Resources,Talent Acquisition Specialist,39643,39643,37,Full Time,2071
+EMP0345,04/06/2022,Henry Clarke,Male,Black,Finance,Financial Analyst,46939,46939,37,Full Time,3056
+EMP0346,05/07/2022,Isabella Moore,Male,Black,Operations,Operations Analyst,36554,36554,37,Full Time,3165
+EMP0347,14/07/2022,Grace Hughes,Female,Other,Operations,Operations Coordinator,31103,31103,37,Full Time,3614
+EMP0348,23/07/2022,Paul Stevens,Male,Asian,Finance,Accounts Payable Clerk,26131,26131,37,Full Time,3198
+EMP0349,02/08/2022,Alice Johnson,Female,White,IT,Service Desk Analyst,30293,30293,37,Full Time,4608
+EMP0350,12/08/2022,Freya Saunders,Female,Asian,Sales,Sales Associate,26525,26525,37,Full Time,2937
+EMP0351,15/08/2022,Zoe Matthews,Male,Other,Sales,Sales Associate,25722,25722,37,Full Time,3256
+EMP0352,18/08/2022,Brian Smith,Male,Mixed,IT,Network Engineer,43191,43191,37,Full Time,3228
+EMP0353,29/08/2022,Emily Carter,Female,Mixed,Customer Service,Customer Support Specialist,30961,30961,37,Full Time,3102
+EMP0354,10/09/2022,Reece Baker,Female,Mixed,Sales,Account Executive,31604,31604,37,Full Time,3400
+EMP0355,23/09/2022,Paul Stevens,Female,Black,Sales,Sales Associate,28912,28912,37,Full Time,3679
+EMP0356,23/09/2022,Gavin Knight,Female,Asian,IT,Software Developer,46861,46861,37,Full Time,4238
+EMP0357,25/09/2022,Liam Foster,Female,Asian,Marketing,Marketing Executive,31304,31304,37,Full Time,2202
+EMP0358,02/10/2022,Yasmin Howard,Female,Other,Logistics,Warehouse Operative,22957,20476,33,Part Time,2943
+EMP0359,09/10/2022,Xavier Young,Male,White,Marketing,Digital Marketing Specialist,37438,37438,37,Full Time,2987
+EMP0360,19/10/2022,Blake Turner,Female,White,Sales,Sales Manager,51410,51410,37,Full Time,
+EMP0361,22/10/2022,Felix Turner,Female,Asian,Sales,Sales Associate,26993,26993,37,Full Time,3956
+EMP0362,28/11/2022,Mia Russell,Male,Other,Operations,Operations Analyst,36204,36204,37,Full Time,3050
+EMP0363,06/12/2022,Nina Howard,Female,Mixed,Sales,Sales Executive,31556,31556,37,Full Time,1973
+EMP0364,11/12/2022,Ruby Collins,Male,Mixed,Logistics,Transport Planner,31905,31905,37,Full Time,3361
+EMP0366,13/12/2022,Holly Barrett,Female,White,Customer Service,Customer Service Advisor,26236,26236,37,Full Time,3426
+EMP0367,21/12/2022,Cameron Morris,Female,Other,Operations,Operations Analyst,32363,32363,37,Full Time,2572
+EMP0369,25/12/2022,Ethan Blake,Male,White,Marketing,Content Marketing Executive,28043,22738,30,Part Time,3073
+EMP0370,26/12/2022,Karen Hughes,Male,Other,Marketing,Digital Marketing Specialist,36451,36451,37,Full Time,3168
+EMP0371,26/12/2022,Daniel Green,Female,Asian,Logistics,Warehouse Operative,23321,23321,37,Full Time,2670
+EMP0372,31/12/2022,Mia Russell,Male,Other,IT,Software Developer,47998,47998,37,Full Time,2648
+EMP0374,09/01/2023,Daisy Hopkins,Male,Mixed,Human Resources,HR Administrator,25712,25712,37,Full Time,3025
+EMP0375,16/01/2023,Ian Spencer,Male,Other,IT,Software Developer,49523,49523,37,Full Time,2630
+EMP0376,28/01/2023,Alice Johnson,Male,Asian,Marketing,Digital Marketing Specialist,35559,35559,37,Full Time,4740
+EMP0377,13/02/2023,Quinn Bailey,Female,White,Human Resources,HR Advisor,32266,32266,37,Full Time,1978
+EMP0378,20/02/2023,Una Davidson,Male,Mixed,Customer Service,Customer Service Advisor,24790,24790,37,Full Time,2510
+EMP0379,26/02/2023,Tara Mitchell,Female,Mixed,IT,Software Developer,42807,42807,37,Full Time,3019
+EMP0380,03/03/2023,Sophie Avery,Female,White,Logistics,Warehouse Operative,25870,25870,37,Full Time,
+EMP0381,13/03/2023,Xavier Young,Female,Mixed,Human Resources,HR Administrator,27755,27755,37,Full Time,3771
+EMP0382,18/03/2023,Uma Reynolds,Female,Asian,Sales,Business Development Representative,26255,26255,37,Full Time,3010
+EMP0383,19/03/2023,Violet Chapman,Male,Mixed,Logistics,Logistics Coordinator,31235,31235,37,Full Time,3773
+EMP0384,25/03/2023,Henry Clarke,Female,White,Human Resources,Talent Acquisition Specialist,38085,38085,37,Full Time,2609
+EMP0385,26/03/2023,Samuel Price,Female,Other,Customer Service,Customer Success Manager,46076,46076,37,Full Time,3342
+EMP0386,04/04/2023,Emily Carter,Female,Asian,Marketing,Marketing Executive,30782,30782,37,Full Time,4521
+EMP0387,04/04/2023,Tara Mitchell,Male,White,Sales,Account Executive,30828,30828,37,Full Time,2623
+EMP0388,17/04/2023,Chloe Patel,Female,Mixed,Logistics,Supply Chain Coordinator,31366,31366,37,Full Time,3594
+EMP0389,19/04/2023,Tara Mitchell,Female,White,IT,IT Systems Engineer,50229,50229,37,Full Time,3445
+EMP0390,19/04/2023,Jenna Wallace,Male,White,Human Resources,HR Officer,35643,35643,37,Full Time,1800
+EMP0391,21/04/2023,Zoe Matthews,Male,White,IT,IT Support Technician,30755,30755,37,Full Time,2888
+EMP0392,23/04/2023,Blake Turner,Male,Black,IT,Network Engineer,46588,31479,25,Part Time,4092
+EMP0393,02/05/2023,Abigail Peters,Female,Mixed,Operations,Operations Assistant,28420,28420,37,Full Time,3395
+EMP0394,20/05/2023,Daisy Hopkins,Female,Mixed,Human Resources,Talent Acquisition Specialist,37692,37692,37,Full Time,2451
+EMP0395,25/05/2023,Reece Baker,Male,Black,Sales,Account Executive,33876,33876,37,Full Time,3784
+EMP0396,29/05/2023,Sophie Avery,Male,Other,Human Resources,HR Advisor,32164,32164,37,Full Time,2965
+EMP0397,30/05/2023,Noah Grant,Female,Asian,Sales,Account Manager,40368,40368,37,Full Time,3552
+EMP0398,11/06/2023,Ethan Blake,Female,Mixed,Sales,Sales Manager,56238,48639,32,Part Time,3564
+EMP0399,16/06/2023,Daniel Green,Male,Black,Sales,Sales Executive,32072,32072,37,Full Time,2517
+EMP0400,28/06/2023,Sophie Avery,Female,Black,Marketing,Marketing Coordinator,25010,25010,37,Full Time,
+EMP0401,29/06/2023,Daniel Green,Female,White,Marketing,Marketing Coordinator,30264,16359,20,Part Time,3853
+EMP0402,07/07/2023,Zoe Matthews,Male,Asian,Human Resources,HR Advisor,35946,35946,37,Full Time,2595
+EMP0403,10/07/2023,Will Harper,Male,Black,Logistics,Transport Planner,34751,34751,37,Full Time,2386
+EMP0404,12/07/2023,Zoe Matthews,Male,White,Operations,Operations Coordinator,29344,29344,37,Full Time,2682
+EMP0405,18/07/2023,Isabella Moore,Female,Other,Marketing,SEO Specialist,37478,37478,37,Full Time,3058
+EMP0406,25/07/2023,Quinn Bailey,Male,Other,IT,IT Support Technician,28725,28725,37,Full Time,3377
+EMP0407,29/07/2023,Olivia Adams,Male,Mixed,Sales,Sales Associate,28205,28205,37,Full Time,2759
+EMP0408,16/08/2023,Zachary Cole,Male,Mixed,Logistics,Logistics Coordinator,28303,28303,37,Full Time,3821
+EMP0409,17/08/2023,Kyle Dawson,Female,Mixed,IT,Systems Administrator,40606,40606,37,Full Time,3476
+EMP0410,17/08/2023,Jenna Wallace,Female,Asian,Marketing,Marketing Coordinator,29031,23539,30,Part Time,2814
+EMP0411,20/08/2023,Cameron Morris,Female,Other,Customer Service,Customer Service Executive,26822,26822,37,Full Time,3922
+EMP0412,28/08/2023,Jenna Wallace,Male,Mixed,Human Resources,HR Advisor,36801,36801,37,Full Time,4113
+EMP0413,17/09/2023,Alice Johnson,Male,Other,Sales,Sales Executive,31881,31881,37,Full Time,3231
+EMP0414,17/09/2023,Liam Foster,Female,White,IT,Systems Administrator,42669,42669,37,Full Time,3150
+EMP0415,24/09/2023,Tom Higgins,Male,Asian,Logistics,Logistics Coordinator,28327,28327,37,Full Time,2058
+EMP0416,24/09/2023,Freya Saunders,Female,White,Customer Service,Customer Service Advisor,26484,26484,37,Full Time,3015
+EMP0417,04/10/2023,Henry Clarke,Female,Other,Operations,Operations Assistant,24755,24755,37,Full Time,3096
+EMP0418,15/10/2023,Felix Turner,Female,Other,Human Resources,HR Advisor,32821,32821,37,Full Time,3472
+EMP0419,17/10/2023,Zachary Cole,Female,White,Operations,Operations Assistant,27398,27398,37,Full Time,3182
+EMP0420,26/10/2023,Brian Smith,Female,White,Customer Service,Customer Success Manager,42452,42452,37,Full Time,
+EMP0421,01/11/2023,Blake Turner,Male,White,Operations,Operations Analyst,37222,20120,20,Part Time,3471
+EMP0422,11/11/2023,Blake Turner,Male,Mixed,Operations,Operations Analyst,40111,40111,37,Full Time,4374
+EMP0423,11/11/2023,Grace Hughes,Female,Other,Human Resources,HR Coordinator,25969,22460,32,Part Time,2929
+EMP0424,11/12/2023,Grace Hughes,Female,White,Logistics,Logistics Coordinator,31366,19498,23,Part Time,2956
+EMP0425,21/12/2023,Poppy McLean,Male,Asian,Customer Service,Customer Service Advisor,24742,24742,37,Full Time,2384
+EMP0426,06/01/2024,Kyle Dawson,Male,Mixed,Operations,Operations Coordinator,30166,30166,37,Full Time,3294
+EMP0427,11/02/2024,Quinn Bailey,Female,Black,Human Resources,People Business Partner,52697,52697,37,Full Time,3984
+EMP0428,14/02/2024,Noah Grant,Male,Black,Customer Service,Customer Support Specialist,26634,15117,21,Part Time,2074
+EMP0429,19/02/2024,Karen Hughes,Male,Asian,Logistics,Distribution Coordinator,26841,26841,37,Full Time,2834
+EMP0430,29/02/2024,Xavier Young,Female,Black,Sales,Account Manager,42249,42249,37,Full Time,3325
+EMP0431,08/03/2024,Oscar Jennings,Female,Mixed,Operations,Operations Analyst,35823,35823,37,Full Time,3895
+EMP0432,30/03/2024,Gavin Knight,Female,Mixed,Marketing,SEO Specialist,30753,30753,37,Full Time,3568
+EMP0433,08/04/2024,Daniel Green,Male,White,Finance,Accounts Receivable Clerk,27153,27153,37,Full Time,3528
+EMP0434,09/04/2024,Xavier Young,Male,Black,Operations,Operations Manager,50922,50922,37,Full Time,3143
+EMP0435,12/04/2024,Paul Stevens,Male,Asian,Customer Service,Customer Support Specialist,26350,26350,37,Full Time,3637
+EMP0436,17/05/2024,Jacob Walker,Non-Binary,Other,Logistics,Supply Chain Coordinator,30814,30814,37,Full Time,4010
+EMP0437,27/05/2024,Zoe Matthews,Male,Mixed,IT,Systems Administrator,41349,41349,37,Full Time,2104
+EMP0438,05/06/2024,Olivia Adams,Female,Mixed,Sales,Sales Associate,23710,23710,37,Full Time,3810
+EMP0439,27/06/2024,Violet Chapman,Male,Mixed,IT,IT Manager,53648,53648,37,Full Time,3231
+EMP0440,30/06/2024,Kyle Dawson,Male,Mixed,Customer Service,Customer Service Manager,45342,45342,37,Full Time,
+EMP0441,03/07/2024,Wendy Brooks,Male,Black,Logistics,Logistics Coordinator,29623,29623,37,Full Time,2929
+EMP0442,04/07/2024,Mia Russell,Female,White,Sales,Account Manager,45912,45912,37,Full Time,1800
+EMP0443,05/07/2024,Karen Hughes,Male,Other,Customer Service,Customer Service Advisor,25776,25776,37,Full Time,2334
+EMP0444,07/07/2024,Tara Mitchell,Female,White,IT,IT Support Technician,30946,25092,30,Part Time,4489
+EMP0445,10/07/2024,Ethan Blake,Female,Other,Logistics,Logistics Coordinator,29742,21704,27,Part Time,2818
+EMP0446,15/08/2024,Jacob Walker,Male,White,Marketing,Marketing Executive,28053,28053,37,Full Time,2541
+EMP0447,21/08/2024,Noah Grant,Male,White,Operations,Operations Manager,52226,38111,27,Part Time,2980
+EMP0448,31/08/2024,Victor Hayes,Female,Asian,Human Resources,HR Manager,53552,53552,37,Full Time,2778
+EMP0449,01/09/2024,Mia Russell,Female,Asian,Customer Service,Customer Success Manager,47929,47929,37,Full Time,3387
+EMP0450,05/09/2024,Jenna Wallace,Female,Asian,IT,IT Support Technician,31426,31426,37,Full Time,4362
+EMP0451,12/09/2024,Tom Higgins,Female,Asian,Finance,Accountant,39257,39257,37,Full Time,2889
+EMP0452,20/09/2024,Brian Smith,Female,Other,Finance,Accountant,38577,22938,22,Part Time,3408
+EMP0453,01/10/2024,Alice Johnson,Female,Mixed,Human Resources,HR Officer,32057,32057,37,Full Time,2497
+EMP0454,01/10/2024,Henry Clarke,Male,Black,Sales,Account Manager,42513,37917,33,Part Time,4364
+EMP0455,08/10/2024,Reece Baker,Male,Other,Human Resources,HR Advisor,33699,33699,37,Full Time,3432
+EMP0456,02/11/2024,Will Harper,Male,Mixed,Sales,Sales Executive,29564,29564,37,Full Time,2543
+EMP0457,29/11/2024,Ruby Collins,Female,White,Human Resources,HR Officer,34634,34634,37,Full Time,3933
+EMP0459,01/12/2024,Jacob Walker,Male,Mixed,Finance,Accountant,39713,39713,37,Full Time,3413
+EMP0460,07/12/2024,Uma Reynolds,Male,White,Logistics,Logistics Coordinator,31463,25511,30,Part Time,
+EMP0461,08/12/2024,Isabella Moore,Male,Asian,Logistics,Logistics Coordinator,30526,30526,37,Full Time,2152
+EMP0462,11/12/2024,Sophie Avery,Male,Asian,Logistics,Logistics Coordinator,32286,32286,37,Full Time,4550
+EMP0463,12/12/2024,Alice Johnson,Female,Other,Marketing,Marketing Executive,30766,30766,37,Full Time,3517
+EMP0464,13/12/2024,Olivia Adams,Male,Mixed,Marketing,Marketing Executive,30799,30799,37,Full Time,4119
+EMP0465,31/12/2024,Paul Stevens,Female,Mixed,Logistics,Distribution Coordinator,28156,28156,37,Full Time,2914
+EMP0466,02/02/2025,Miles Turner,Male,Mixed,Customer Service,Customer Service Executive,28298,28298,37,Full Time,3021
+EMP0467,03/02/2025,Jenna Wallace,Male,Asian,Sales,Sales Associate,25236,25236,37,Full Time,3377
+EMP0468,11/02/2025,Ian Spencer,Male,Mixed,IT,Service Desk Analyst,28828,20258,26,Part Time,4079
+EMP0469,13/02/2025,Ian Spencer,Female,White,Marketing,Digital Marketing Specialist,34573,34573,37,Full Time,3400
+EMP0470,16/02/2025,Kyle Dawson,Male,Other,Marketing,Marketing Coordinator,27069,27069,37,Full Time,2420
+EMP0472,18/02/2025,Gavin Knight,Female,Mixed,Marketing,SEO Specialist,35650,35650,37,Full Time,4441
+EMP0473,19/02/2025,Uma Reynolds,Male,Asian,IT,Systems Administrator,37784,37784,37,Full Time,3346
+EMP0474,23/02/2025,Una Davidson,Female,Black,Logistics,Supply Chain Coordinator,33668,33668,37,Full Time,3391
+EMP0475,25/02/2025,Violet Chapman,Female,Other,Operations,Operations Analyst,38081,26760,26,Part Time,2416
+EMP0476,28/02/2025,Violet Chapman,Male,Black,Finance,Finance Manager,55095,55095,37,Full Time,2318
+EMP0477,02/03/2025,Felix Turner,Male,Black,Finance,Management Accountant,43121,43121,37,Full Time,2854
+EMP0478,04/03/2025,Sophie Avery,Female,Other,Logistics,Distribution Coordinator,30414,30414,37,Full Time,3071
+EMP0479,07/03/2025,Isabella Moore,Male,Asian,Operations,Operations Manager,46203,46203,37,Full Time,3373
+EMP0480,19/03/2025,Tara Mitchell,Female,White,Customer Service,Customer Service Advisor,26610,26610,37,Full Time,
+EMP0481,25/03/2025,Reece Baker,Male,Black,Sales,Sales Associate,26387,22822,32,Part Time,3416
+EMP0482,09/04/2025,Nina Howard,Female,Other,Customer Service,Customer Service Advisor,26256,26256,37,Full Time,4421
+EMP0483,09/04/2025,Oscar Jennings,Female,Asian,Sales,Sales Manager,59310,59310,37,Full Time,3341
+EMP0484,11/04/2025,Jenna Wallace,Female,Asian,Marketing,Digital Marketing Specialist,35576,35576,37,Full Time,4045
+EMP0485,02/05/2025,Uma Reynolds,Male,Black,Sales,Business Development Representative,29373,29373,37,Full Time,3272
+EMP0486,08/05/2025,Abigail Peters,Female,Mixed,Marketing,Marketing Coordinator,28576,28576,37,Full Time,4314
+EMP0487,09/05/2025,Brian Smith,Male,Mixed,IT,Systems Administrator,40000,33514,31,Part Time,1991
+EMP0488,10/05/2025,Yasmin Howard,Male,Mixed,Logistics,Logistics Coordinator,30663,30663,37,Full Time,2881
+EMP0489,14/05/2025,Ethan Blake,Male,Black,Operations,Operations Coordinator,31737,22302,26,Part Time,3988
+EMP0490,17/05/2025,Olivia Adams,Male,White,Finance,Management Accountant,49147,39849,30,Part Time,3180
+EMP0491,26/05/2025,Blake Turner,Female,White,Sales,Sales Associate,27184,21307,29,Part Time,3952
+EMP0492,30/05/2025,Grace Hughes,Female,White,Human Resources,HR Advisor,32666,32666,37,Full Time,3570
+EMP0493,14/06/2025,Poppy McLean,Male,Asian,Customer Service,Customer Service Advisor,25606,19378,28,Part Time,3962
+EMP0495,17/06/2025,Quinn Bailey,Male,Asian,Human Resources,HR Administrator,27669,27669,37,Full Time,3772
+EMP0496,18/06/2025,Noah Grant,Male,Other,Human Resources,HR Advisor,32003,32003,37,Full Time,4345
+EMP0498,30/06/2025,Liam Foster,Male,Other,Operations,Operations Manager,46434,46434,37,Full Time,3996
+EMP0499,01/07/2025,Blake Turner,Male,White,Sales,Sales Manager,50494,50494,37,Full Time,3314
+EMP0500,04/07/2025,Ruby Collins,Male,Other,Marketing,Digital Marketing Specialist,37073,37073,37,Full Time,
+EMP0501,13/07/2025,Abigail Peters,Male,White,Operations,Operations Analyst,35293,35293,37,Full Time,2893
+EMP0502,25/07/2025,Victor Hayes,Female,Other,Marketing,Marketing Manager,51687,51687,37,Full Time,2838
+EMP0503,27/07/2025,Chloe Patel,Female,Asian,Human Resources,Talent Acquisition Specialist,39318,39318,37,Full Time,3826
+EMP0504,02/08/2025,Daisy Hopkins,Male,Asian,Logistics,Logistics Coordinator,32093,32093,37,Full Time,1800
+EMP0505,15/08/2025,Ruby Collins,Female,Mixed,Logistics,Transport Planner,34351,34351,37,Full Time,2385
+EMP0506,18/08/2025,Chloe Patel,Female,Black,Finance,Finance Assistant,27848,27848,37,Full Time,2626
+EMP0507,24/08/2025,Una Davidson,Female,Black,Operations,Operations Manager,47300,42187,33,Part Time,3127
+EMP0508,24/08/2025,Victor Hayes,Male,Mixed,Human Resources,HR Coordinator,34177,31406,34,Part Time,1800
+EMP0509,25/08/2025,Ethan Blake,Male,White,Operations,Operations Assistant,31001,31001,37,Full Time,4181
+EMP0510,02/09/2025,Una Davidson,Male,Mixed,Operations,Operations Assistant,28214,28214,37,Full Time,3720
+EMP0511,05/09/2025,Emily Carter,Female,Black,Human Resources,HR Administrator,26478,26478,37,Full Time,4689
+EMP0512,07/10/2025,Yasmin Howard,Male,Other,Customer Service,Customer Support Specialist,28924,28924,37,Full Time,4044
+EMP0513,08/10/2025,Abigail Peters,Female,Black,Finance,Management Accountant,46330,46330,37,Full Time,4021
+EMP0514,18/10/2025,Miles Turner,Male,Other,IT,IT Support Technician,29117,16526,21,Part Time,4876
+EMP0516,20/10/2025,Lara Briggs,Female,Black,Logistics,Transport Planner,35855,35855,37,Full Time,2248
+EMP0517,29/10/2025,Kyle Dawson,Female,Other,Finance,Financial Analyst,44915,44915,37,Full Time,3137
+EMP0518,02/11/2025,Yasmin Howard,Male,Other,Finance,Finance Assistant,26261,19164,27,Part Time,2722
+EMP0519,07/11/2025,Felix Turner,Male,White,Human Resources,HR Administrator,28227,16021,21,Part Time,3120
+EMP0520,17/11/2025,Henry Clarke,Female,Asian,Sales,Sales Associate,27256,27256,37,Full Time,
+EMP0521,09/12/2025,Yasmin Howard,Female,Other,Logistics,Transport Planner,35522,35522,37,Full Time,2565
+EMP0523,09/12/2025,Will Harper,Male,Black,Operations,Supply Chain Analyst,37849,37849,37,Full Time,3659
+EMP0524,11/12/2025,Zoe Matthews,Male,Mixed,IT,Systems Administrator,43512,43512,37,Full Time,3281
+EMP0525,23/12/2025,Nina Howard,Female,Asian,IT,Software Developer,50256,28524,21,Part Time,3518
+HOD0001,06/04/2023,Alex Morgan,Female,White,Human Resources,Head of Human Resources,75000,75000,37,Full Time,7500
+HOD0002,14/11/2022,Jordan Patel,Male,Asian,Finance,Head of Finance,95000,95000,37,Full Time,9500
+HOD0003,12/06/2023,Sam Taylor,Female,Mixed,IT,Head of IT,95000,95000,37,Full Time,9500
+HOD0004,05/02/2024,Casey Brown,Male,Black,Marketing,Head of Marketing,90000,90000,37,Full Time,9000
+HOD0005,19/09/2022,Riley Evans,Female,Other,Operations,Head of Operations,85000,85000,37,Full Time,8500
+HOD0006,30/01/2023,Taylor Scott,Male,White,Sales,Head of Sales,95000,95000,37,Full Time,9500
+HOD0007,08/07/2024,Morgan Lee,Female,Asian,Customer Service,Head of Customer Service,70000,70000,37,Full Time,7000
+HOD0008,20/03/2023,Jamie Hughes,Male,White,Logistics,Head of Logistics,80000,80000,37,Full Time,8000
